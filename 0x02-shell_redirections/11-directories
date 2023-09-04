@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s dotglob; dirs=(*); echo $((${#dirs[@]} - 2))
+dirs=$(find . -mindepth 1 -maxdepth 1 -type d); echo $((${#dirs[@]}))
