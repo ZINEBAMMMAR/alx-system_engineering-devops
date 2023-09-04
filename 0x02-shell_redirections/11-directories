@@ -1,2 +1,2 @@
 #!/bin/bash
-dirs=$(find . -mindepth 1 -maxdepth 1 -type d); echo $((${#dirs[@]}))
+find . -type d -not -path '*/\.*' | wc -l
