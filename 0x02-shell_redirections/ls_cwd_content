@@ -1,16 +1,30 @@
-total 56
-drwxr-xr-x 2 root root   275 Sep  4 08:49 .
-drwxr-xr-x 6 root root   121 Sep  4 06:01 ..
--rwxr-xr-x 1 root root    32 Sep  4 06:03 0-hello_world
--rwxr-xr-x 1 root root    30 Sep  4 06:22 1-confused_smiley
--rwxr-xr-x 1 root root    28 Sep  4 06:30 2-hellofile
--rwxr-xr-x 1 root root    39 Sep  4 06:35 3-twofiles
--rwxr-xr-x 1 root root    35 Sep  4 06:41 4-lastlines
--rwxr-xr-x 1 root root    35 Sep  4 06:45 5-firstlines
--rwxr-xr-x 1 root root    40 Sep  4 06:49 6-third_line
--rwxr-xr-x 1 root root    69 Sep  4 08:40 7-file
--rw-r--r-- 1 root root 12288 Sep  4 07:15 .7-file.swp
--rwxr-xr-x 1 root root    36 Sep  4 08:49 8-cwd_state
--rw-r--r-- 1 root root    12 Sep  4 08:37 *\\'Best School'\\*$?*****:)
--rw-r--r-- 1 root root     0 Sep  4 08:49 ls_cwd_content
--rw-r--r-- 1 root root  3565 Sep  4 06:07 README.md
+total 104
+drwxr-xr-x 2 root root 4096 Sep  4 15:52 .
+drwxr-xr-x 6 root root  121 Sep  4 06:01 ..
+-rwxr-xr-x 1 root root   32 Sep  4 06:03 0-hello_world
+-rwxr-xr-x 1 root root   51 Sep  4 15:09 100-empty_casks
+-rwxr-xr-x 1 root root   54 Sep  4 08:57 10-no_more_js
+-rwxr-xr-x 1 root root   54 Sep  4 09:11 11-directories
+-rwxr-xr-x 1 root root   31 Sep  4 09:22 12-newest_files
+-rwxr-xr-x 1 root root   27 Sep  4 09:27 13-unique
+-rwxr-xr-x 1 root root   36 Sep  4 09:31 14-findthatword
+-rwxr-xr-x 1 root root   38 Sep  4 09:33 15-countthatword
+-rwxr-xr-x 1 root root   41 Sep  4 09:35 16-whatsnext
+-rwxr-xr-x 1 root root   38 Sep  4 09:36 17-hidethisword
+-rwxr-xr-x 1 root root   50 Sep  4 09:38 18-letteronly
+-rwxr-xr-x 1 root root   25 Sep  4 09:43 19-AZ
+-rwxr-xr-x 1 root root   30 Sep  4 06:22 1-confused_smiley
+-rwxr-xr-x 1 root root   23 Sep  4 09:45 20-hiago
+-rwxr-xr-x 1 root root   16 Sep  4 09:47 21-reverse
+-rwxr-xr-x 1 root root  104 Sep  4 09:52 22-users_and_homes
+-rwxr-xr-x 1 root root   28 Sep  4 06:30 2-hellofile
+-rwxr-xr-x 1 root root   39 Sep  4 06:35 3-twofiles
+-rwxr-xr-x 1 root root   35 Sep  4 06:41 4-lastlines
+-rwxr-xr-x 1 root root   35 Sep  4 06:45 5-firstlines
+-rwxr-xr-x 1 root root   40 Sep  4 06:49 6-third_line
+-rwxr-xr-x 1 root root   36 Sep  4 08:49 8-cwd_state
+-rwxr-xr-x 1 root root   37 Sep  4 08:51 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Sep  4 08:37 *\\'Best School'\\*$?*****:)
+-rw-r--r-- 1 root root    0 Sep  4 08:52 iacta
+-rw-r--r-- 1 root root    0 Sep  4 15:52 ls_cwd_content
+-rw-r--r-- 1 root root 3565 Sep  4 06:07 README.md
