@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(( 10#${WATER} + 10#${STIR} ))"
+echo $((0x$(echo $WATER | tr 'ewatrat' '0123456') + 0x$(echo $STIR | tr 'ti' '23'))) | tr '0123456789abcdef' 'bestchol'
